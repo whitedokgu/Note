@@ -15,9 +15,10 @@ html {
 }
 
 body {
-  font-size: 16px;
+  font-size: 18px;
   overflow-x: auto;
   overflow-y: scroll;
+  background-color: #0332cb;
 }
 
 a {

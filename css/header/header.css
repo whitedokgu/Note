@@ -53,6 +53,7 @@
 }
 
 p.font_1 {
+  color: #ecf0fb;
   text-align: center;
   line-height: 2em;
   font-size: 22px;
@@ -64,6 +65,7 @@ p.font_1 > span {
 }
 
 p.font_0 {
+  color: #ecf0fb;
   text-align: center;
   font-size: 116px;
   line-height: normal;
